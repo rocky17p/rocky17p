@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rocky17p&label=Profile%20views&color=0e75b6&style=flat" alt="rocky17p" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rocky17p" alt="rocky17p" /></a> </p>
-
 - 🔭 I’m currently working on [EduAgent – AI Educational Content Pipeline](https://github.com/rocky17p/Eduagent)
 
 - 🌱 I’m currently learning **Advanced Backend Engineering, System Design, Distributed Systems, LLM + RAG Systems**
