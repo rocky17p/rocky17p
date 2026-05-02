@@ -47,9 +47,6 @@
   <h3>Frontend Development</h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5" />
 
-  <!-- Design & UI -->
-  <h3>Design & UI</h3>
-  <img src="https://skillicons.dev/icons?i=figma&perline=4" />
 
   <!-- Backend / Server-side -->
   <h3>Backend / Server-side</h3>
