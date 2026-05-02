@@ -32,6 +32,9 @@
   <a href="mailto:rishi17p@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
+  <a href="https://www.linkedin.com/in/rishi-patwa">
+      <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rocky17p&style=for-the-badge"/>
