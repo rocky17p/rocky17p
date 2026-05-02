@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rishi Patwa</h1>
-<h3 align="center">A backend-focused Computer Engineering student from India passionate about scalable systems, AI pipelines, and distributed backend engineering</h3>
+<p align="center">
+  <a href="https://github.com/rocky17p">
+   <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/0aa4d38e-1402-4208-b640-99b83296adfa" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rocky17p&label=Profile%20views&color=0e75b6&style=flat" alt="rocky17p" /> </p>
 
-- 🔭 I’m currently working on [EduAgent – AI Educational Content Pipeline](https://github.com/rocky17p/Eduagent)
+<h1 align="center">Hey, It's RishiPatwa! 
+  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" alt="A small GIF" style="width: 30px; height: 30px;"/>
+</h1>
+
+
+
+- 🔭 I’m currently working on [EduAgent – AI Educational Content Pipeline](https://github.com/rocky17p/Eduagent)**
 
 - 🌱 I’m currently learning **Advanced Backend Engineering, System Design, Distributed Systems, LLM + RAG Systems**
 
-- 👯 I’m looking to collaborate on **Backend Systems / Real-Time Collaboration Platforms / AI Pipelines**
-
 - 🤝 I’m looking for help with **System Design and High-Performance Distributed Systems**
-
-- 👨‍💻 All of my projects are available at [rishipatwa.me](rishipatwa.me)
 
 - 💬 Ask me about **DSA, Backend Development, Node.js, REST APIs, WebSockets, MongoDB, AWS, LLM Pipelines**
 
@@ -19,16 +23,49 @@
 
 - ⚡ Fun fact **I’ve solved 500+ DSA problems and enjoy optimizing backend systems more than building UIs 😄**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishi-patwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-patwa" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://github.com/rocky17p">
+    <img src="https://skillicons.dev/icons?i=github&perline=1" />
+  </a>
+  <a href="mailto:rishi17p@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rocky17p&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h1 align="center">I am Pretty Familiar with</h3>
+<p align="center">
+ <div align="center">
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=5" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rocky17p&show_icons=true&locale=en&layout=compact" alt="rocky17p" /></p>
+  <!-- Design & UI -->
+  <h3>Design & UI</h3>
+  <img src="https://skillicons.dev/icons?i=figma&perline=4" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rocky17p&show_icons=true&locale=en" alt="rocky17p" /></p>
+  <!-- Backend / Server-side -->
+  <h3>Backend / Server-side</h3>
+  <img src="https://skillicons.dev/icons?i=js,py,nodejs,express,fastapi&perline=6" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rocky17p&" alt="rocky17p" /></p>
+  <!-- Database -->
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,redis&perline=9" />
+
+  <!-- Cloud & Deployment -->
+  <h3>Cloud & Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=vercel,render,aws,git,github&perline=8" />
+
+  <!-- Package Managers & Testing -->
+  <h3>Package Managers, Testing & Build Tools</h3>
+  <img src="https://skillicons.dev/icons?i=postman&perline=9" />
+  
+</div>
+
+</p>
+
+<hr/>
